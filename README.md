@@ -1,7 +1,7 @@
 # STAT527-Knockoff-Project
 Simulation study of two-stage fixed-X knockoffs under homoskedastic Gaussian, heavy-tailed, and Gaussian heteroskedastic errors.
 
-##Requirements
+## Requirements
 Use Python 3.11 and NumPy 1.26.4.
 ```bash
 python -m pip install numpy==1.26.4
