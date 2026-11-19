@@ -7,15 +7,10 @@ Use Python 3.11 and NumPy 1.26.4.
 python -m pip install numpy==1.26.4
 ```
 
-## Generate a small test batch
+## Generate the full dataset
 
 Run this command from the project folder:
 
-```bash
-python generate_data.py --seed 527 --replicates 5 --output simulation_data_test
-```
-
-## Generate the full dataset
 ```bash
 python generate_data.py --seed 527 --replicates 1000 --output simulation_data_main
 ```
